@@ -105,6 +105,8 @@ body{
     padding: 10px;
     text-align: center;
     font-size: 1.9em;
+    text-decoration:none;
+    color: inherit;
     
 
 }
